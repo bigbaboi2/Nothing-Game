@@ -1,0 +1,30 @@
+{
+  "name": "HD-2D Cozy Riverside Village Palette",
+  "version": "1.0",
+  "total_colors": 87,
+  "rules": {
+    "hue_shift": "Shadows shift toward cool indigo/violet; highlights shift toward warm amber/cream.",
+    "outline": "Use darkest ramp color or selective outline, never pure #000000.",
+    "tolerance": 0
+  },
+  "ramps": {
+    "stone_cobble": ["#1b1b29", "#2b2c3f", "#42445b", "#63657d", "#8b8ca3"],
+    "wood_dark": ["#1e141c", "#362328", "#543636", "#785046", "#9e6f5b"],
+    "wood_warm": ["#2a191b", "#4a2c27", "#704536", "#9b6647", "#c48d61"],
+    "plaster_wall": ["#352e42", "#594f63", "#8a7c87", "#bda9a6", "#e5d2c4"],
+    "roof_terracotta": ["#281624", "#4d2531", "#7d3b3c", "#ad5948", "#d4805d"],
+    "roof_slate": ["#181c2b", "#273047", "#3b4966", "#576987", "#7c8fa8"],
+    "foliage_green": ["#122026", "#1d3838", "#2e5947", "#487d52", "#6fa35a", "#9ec466"],
+    "foliage_autumn": ["#2b1721", "#57272c", "#8f4230", "#c76b34", "#ebb04c"],
+    "flower_pink": ["#4a1c36", "#853152", "#c4566e", "#f08ca0"],
+    "flower_gold": ["#4a2a18", "#8c561e", "#cf9029", "#f7d054"],
+    "water": ["#0f1729", "#172842", "#234163", "#366385", "#5991ad"],
+    "lantern_glow": ["#592418", "#a3491c", "#e68629", "#ffca4f", "#fff3b8"],
+    "chibi_skin": ["#4d2c2e", "#8c574d", "#c98b73", "#f5c6a5"],
+    "chibi_hair": ["#1c1426", "#362442", "#5b3b66", "#895d8c", "#bd8cb8"],
+    "chibi_cloak": ["#162333", "#223b4f", "#345c70", "#4f8494", "#7bb3ba"],
+    "chibi_scarf": ["#471822", "#822630", "#bd403c", "#eb6d54"],
+    "metal_iron": ["#14151f", "#282b3b", "#484e63", "#788096"],
+    "sky_dusk": ["#141326", "#282142", "#4a3159", "#804968", "#bd6f6a", "#eda879"]
+  }
+}

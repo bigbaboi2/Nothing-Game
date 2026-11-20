@@ -1,0 +1,13 @@
+# Local dependencies and generated caches
+**/node_modules/
+**/.godot/
+**/.cache/
+**/playwright-report/
+
+# Bundled engine binaries are installed separately from the project source.
+/tools/godot/*.exe
+
+# Local editor/OS files
+.DS_Store
+Thumbs.db
+*.tmp
